@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Pepper-Cloud-Assignment/static/css/main.2468055c.css",
-    "main.js": "/Pepper-Cloud-Assignment/static/js/main.441118fb.js",
+    "main.js": "/Pepper-Cloud-Assignment/static/js/main.ad8b27ab.js",
     "static/js/787.9d2d08f9.chunk.js": "/Pepper-Cloud-Assignment/static/js/787.9d2d08f9.chunk.js",
     "static/media/brand-icons.svg": "/Pepper-Cloud-Assignment/static/media/brand-icons.6729d29753e000c17489.svg",
     "static/media/icons.svg": "/Pepper-Cloud-Assignment/static/media/icons.62d9dae4e0040e81c980.svg",
@@ -22,11 +22,11 @@
     "static/media/outline-icons.woff2": "/Pepper-Cloud-Assignment/static/media/outline-icons.687a4990ea22bb1a49d4.woff2",
     "index.html": "/Pepper-Cloud-Assignment/index.html",
     "main.2468055c.css.map": "/Pepper-Cloud-Assignment/static/css/main.2468055c.css.map",
-    "main.441118fb.js.map": "/Pepper-Cloud-Assignment/static/js/main.441118fb.js.map",
+    "main.ad8b27ab.js.map": "/Pepper-Cloud-Assignment/static/js/main.ad8b27ab.js.map",
     "787.9d2d08f9.chunk.js.map": "/Pepper-Cloud-Assignment/static/js/787.9d2d08f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2468055c.css",
-    "static/js/main.441118fb.js"
+    "static/js/main.ad8b27ab.js"
   ]
 }
